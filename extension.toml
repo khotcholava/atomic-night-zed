@@ -1,0 +1,7 @@
+id = "atomic-night"
+name = "Atomic Night"
+schema_version = 1
+version = "0.1.0"
+authors = ["Akaki Khotcholava <akaki.khotcholava@gmail.com>"]
+description = "⚛️ Atomic Night: A dark theme for Zed with vibrant colors for better readability and focus."
+repository = "https://github.com/khotcholava/atomic-night"
