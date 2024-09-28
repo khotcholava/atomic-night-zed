@@ -20,4 +20,4 @@ To use the Atomic Night theme, simply add the theme JSON file to your Zed themes
 
 ## Customization
 
-Feel free to modify the colors and styles to suit your preferences. Contributions are welcome! 
+Feel free to modify the colors and styles to suit your preferences. Contributions are welcome! # atomic-night
