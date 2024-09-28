@@ -1,5 +1,7 @@
 # Atomic Night Theme
-![Atomic Night Logo](./assets/logo.png)
+<div align="center">
+  <img src="./assets/logo.png" alt="Atomic Night Logo">
+</div>
 
 Atomic Night is a sleek dark theme designed for the Zed code editor. Inspired by a night sky, this theme offers a visually pleasing experience for developers, enhancing readability and reducing eye strain.
 
