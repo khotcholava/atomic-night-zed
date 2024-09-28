@@ -16,7 +16,8 @@ Atomic Night is a sleek dark theme designed for the Zed code editor. Inspired by
 
 ## Installation
 
-To use the Atomic Night theme, simply add the theme JSON file to your Zed themes directory.
+Copy atomic-night.json to ~/.config/zed/themes/
+Open Zed and navigate to Settings -> Theme -> Atomic Night
 
 ## Customization
 
